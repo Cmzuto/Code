@@ -1,4 +1,4 @@
-`@Additional Permissions (Android Permissions. File Permissions_Write)
+@Additional Permissions (Android Permissions. File Permissions_Write)
  @Additional Permissions (Android Permissions. File Permissions_Read)
  @Additional Permissions (Android Permissions. Network Permissions)
  @Additional permissions (Android permissions. SMS permissions_monitoring)
@@ -30,4 +30,4 @@
  
  
  
- end class`
+ end class
